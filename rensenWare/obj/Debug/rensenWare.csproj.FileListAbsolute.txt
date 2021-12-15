@@ -1,0 +1,9 @@
+C:\Users\Administrator\Downloads\Rensenware-main\renseiWare\rensenWare\bin\Debug\rensenWare.exe
+C:\Users\Administrator\Downloads\Rensenware-main\renseiWare\rensenWare\bin\Debug\rensenWare.pdb
+C:\Users\Administrator\Downloads\Rensenware-main\renseiWare\rensenWare\obj\Debug\rensenWare.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Rensenware-main\renseiWare\rensenWare\obj\Debug\rensenWare.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Rensenware-main\renseiWare\rensenWare\obj\Debug\rensenWare.frmWarning.resources
+C:\Users\Administrator\Downloads\Rensenware-main\renseiWare\rensenWare\obj\Debug\rensenWare.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Rensenware-main\renseiWare\rensenWare\obj\Debug\rensenWare.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Rensenware-main\renseiWare\rensenWare\obj\Debug\rensenWare.exe
+C:\Users\Administrator\Downloads\Rensenware-main\renseiWare\rensenWare\obj\Debug\rensenWare.pdb
